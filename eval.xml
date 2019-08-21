@@ -15,7 +15,7 @@
   <project remote="advancedtelematic" revision="thud" name="meta-updater" path="sources/meta-updater"/>
   <project remote="witekio" revision="96b1fec68b5e7a7599b6078833bbc63f51692df8" name="meta-machinelearning" path="sources/meta-machinelearning"/>
   <project remote="fullmetalupdate" revision="thud" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
-  <project remote="fullmetalupdate" revision="thud" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
+  <project remote="fullmetalupdate" revision="2cab28aee8e822f752d7188c2772ead67f55a600" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
   <project remote="qt" revision="thud" name="meta-qt5" path="sources/meta-qt5"/>
   <project remote="yocto" revision="thud" name="poky" path="sources/poky"/>
   <project remote="freescale" revision="thud" name="fsl-community-bsp-base" path="sources/base">
