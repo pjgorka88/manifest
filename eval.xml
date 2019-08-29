@@ -19,7 +19,7 @@
   <project remote="advancedtelematic" revision="thud" name="meta-updater" path="sources/meta-updater"/>
   <!-- <project remote="witekio" revision="thud" name="meta-machinelearning" path="sources/meta-machinelearning"/> -->
   <project remote="fullmetalupdate" revision="thud" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
-  <project remote="fullmetalupdate-extra-fork" revision="4ed4d947af08ce5854229fcd85e9392a967add50" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
+  <project remote="fullmetalupdate-extra-fork" revision="4ed4d94" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
 
   <project remote="qt" revision="thud" name="meta-qt5" path="sources/meta-qt5"/>
 
